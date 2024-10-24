@@ -18,3 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keplorion&" alt="keplorion" /></p>
 
+
+
+![snake gif](https://github.com/Keplorion/Keplorion/blob/output/github-snake-dark.svg)
